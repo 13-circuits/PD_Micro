@@ -1,0 +1,33 @@
+### Module positions - created on 27/01/2021 2:48:15 PM ###
+### Printed by Pcbnew version kicad (5.1.5)-3
+## Unit = inches, Angle = deg.
+## Side : bottom
+# Ref     Val          Package                                          PosX       PosY       Rot  Side
+C1        10uF         C_0805                                        -0.6437     0.2831  180.0000  bottom
+C2        10uF         C_0805                                        -0.6437     0.2122  180.0000  bottom
+C3        10uF         C_0805                                        -0.9843     0.4799  180.0000  bottom
+C6        1uF_50V      C_0805                                        -0.5295     0.3933   90.0000  bottom
+C7        1uF_50V      C_0805                                        -0.5374     0.2516  270.0000  bottom
+C8        1uF_50V      C_0805                                        -1.1673     0.2122    0.0000  bottom
+C12       10nF         C_0603                                        -1.3406     0.3815  180.0000  bottom
+C13       0.1uF        C_0603                                        -1.0453     0.2516  270.0000  bottom
+C15       0.1uF        C_0603                                        -0.9626     0.2319    0.0000  bottom
+C16       330pF        C_0603                                        -1.1831     0.3382    0.0000  bottom
+C17       330pF        C_0603                                        -1.1831     0.2752    0.0000  bottom
+L1        10uH         L_4012                                        -0.8169     0.2772  270.0000  bottom
+Q1        DMP3017SFK   DFN-2523-6                                    -0.2657     0.4642  180.0000  bottom
+Q2        DTC143E      SOT-323_SC-70                                 -0.2657     0.2358  180.0000  bottom
+R1        10k          R_0603                                        -0.2657     0.3736    0.0000  bottom
+R2        270k         R_0603                                        -0.6693     0.4917  180.0000  bottom
+R3        1k           R_0603                                        -0.2657     0.3146  180.0000  bottom
+R4        51k          R_0603                                        -0.5551     0.4917  180.0000  bottom
+R6        33k          R_0603                                        -1.1831     0.4189  180.0000  bottom
+R9        10k          R_0603                                        -1.3366     0.3185  180.0000  bottom
+R10       33k          R_0603                                        -1.1831     0.4937  180.0000  bottom
+R11       2k           R_0603                                        -0.8366     0.4878    0.0000  bottom
+R12       2k           R_0603                                        -0.8366     0.4287    0.0000  bottom
+RN1       4x33k        R_Array_Convex_4x0603                         -0.4114     0.4287  180.0000  bottom
+RN2       4x33k        R_Array_Convex_4x0603                         -0.4114     0.2713  180.0000  bottom
+U1        TPS62175DQC  WSON-10-1EP_2x3mm_P0.5mm_EP0.84x2.4mm         -0.6319     0.3894    0.0000  bottom
+U4        FUSB302BMPX  WQFN-14-1EP_2.5x2.5mm_P0.5mm_EP1.45x1.45mm    -0.9980     0.3761  180.0000  bottom
+## End
